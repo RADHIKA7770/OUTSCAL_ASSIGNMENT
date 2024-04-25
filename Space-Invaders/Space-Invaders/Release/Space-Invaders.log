@@ -1,0 +1,166 @@
+﻿  main.cpp
+C:\New folder\SME-Assignment\Space-Invaders\main.cpp(1,10): error C1083: Cannot open include file: '../../header/Main/GameService.h': No such file or directory
+  CollisionService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Collision\ICollider.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Collision/CollisionService.cpp')
+  
+  ICollider.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Collision\ICollider.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Collision/ICollider.cpp')
+  
+  BunkerController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Elements\Bunker\BunkerController.cpp(1,10): error C1083: Cannot open include file: '../../header/Elements/Bunker/BunkerController.h': No such file or directory
+  BunkerData.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Elements\Bunker\BunkerData.cpp(1,10): error C1083: Cannot open include file: '../../header/Elements/Bunker/BunkerData.h': No such file or directory
+  BunkerView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Elements\Bunker\BunkerView.cpp(1,10): error C1083: Cannot open include file: '../../header/Elements/Bunker/BunkerView.h': No such file or directory
+  ElementService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Elements\ElementService.h(3,10): error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  (compiling source file 'source/Elements/ElementService.cpp')
+  
+  SubzeroController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Enemy\Controller\SubzeroController.cpp(1,10): error C1083: Cannot open include file: '../../header/Enemy/Controller/SubzeroController.h': No such file or directory
+  ThunderSnakeController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Enemy\Controller\ThunderSnakeController.cpp(1,10): error C1083: Cannot open include file: '../../header/Enemy/Controller/ThunderSnakeController.h': No such file or directory
+  UFOController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Enemy\Controller\UFOController.cpp(1,10): error C1083: Cannot open include file: '../../header/Enemy/Controller/UFOController.h': No such file or directory
+  ZapperController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Enemy\Controller\ZapperController.cpp(1,10): error C1083: Cannot open include file: '../../header/Enemy/Controller/ZapperController.h': No such file or directory
+  EnemyController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Enemy\EnemyController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Enemy/EnemyController.cpp')
+  
+  EnemyModel.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Enemy\EnemyModel.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Enemy/EnemyModel.cpp')
+  
+  EnemyService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Enemy\EnemyController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Enemy/EnemyService.cpp')
+  
+  EnemyView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Enemy\EnemyView.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Enemy/EnemyView.cpp')
+  
+  EventService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Event\EventService.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics/RenderWindow.hpp': No such file or directory
+  (compiling source file 'source/Event/EventService.cpp')
+  
+  GameplayController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Gameplay\GameplayController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Gameplay/GameplayController.cpp')
+  
+  GameplayService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Gameplay\GameplayController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Gameplay/GameplayService.cpp')
+  
+  GameplayView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Gameplay\GameplayView.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Gameplay/GameplayView.cpp')
+  
+  Config.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Global\Config.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Global/Config.cpp')
+  
+  Compiling...
+  ServiceLocator.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Graphics\GraphicService.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Global/ServiceLocator.cpp')
+  
+  ParticleService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Particle\ParticleService.h(3,10): error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  (compiling source file 'source/Particle/ParticleService.cpp')
+  
+  ParticleSystem.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Particle\ParticleSystem.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Particle/ParticleSystem.cpp')
+  
+  HighScore.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Gameplay\HighScore.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics/Text.hpp': No such file or directory
+  (compiling source file 'source/Gameplay/HighScore.cpp')
+  
+  OutscalBombController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Powerup\Controller\OutscalBombController.cpp(1,10): error C1083: Cannot open include file: '../../header/Powerup/Controller/OutscalBombController.h': No such file or directory
+  RapidFireController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Powerup\Controller\RapidFireController.cpp(1,10): error C1083: Cannot open include file: '../../header/Powerup/Controller/RapidFireController.h': No such file or directory
+  ShieldController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Powerup\Controller\ShieldController.cpp(1,10): error C1083: Cannot open include file: '../../header/Powerup/Controller/ShieldController.h': No such file or directory
+  TrippleLaserController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Powerup\Controller\TrippleLaserController.cpp(1,10): error C1083: Cannot open include file: '../../header/Powerup/Controller/TrippleLaserController.h': No such file or directory
+  PowerupController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Powerup\IPowerup.h(2,10): error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  (compiling source file 'source/Powerup/PowerupController.cpp')
+  
+  PowerupModel.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Powerup\PowerupModel.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Powerup/PowerupModel.cpp')
+  
+  PowerupService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Powerup\PowerupService.h(3,10): error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  (compiling source file 'source/Powerup/PowerupService.cpp')
+  
+  PowerupView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Powerup\PowerupView.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Powerup/PowerupView.cpp')
+  
+  SoundService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Sound\SoundService.h(2,10): error C1083: Cannot open include file: 'SFML/Audio.hpp': No such file or directory
+  (compiling source file 'source/Sound/SoundService.cpp')
+  
+  TimeService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\New folder\SME-Assignment\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         with
+C:\New folder\SME-Assignment\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         [
+C:\New folder\SME-Assignment\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:             _Rep=__int64
+C:\New folder\SME-Assignment\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         ]
+  GameService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Main\GameService.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Main/GameService.cpp')
+  
+  GraphicService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Graphics\GraphicService.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Graphics/GraphicService.cpp')
+  
+  PlayerController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Player\PlayerController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Player/PlayerController.cpp')
+  
+  PlayerModel.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Player\PlayerModel.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Player/PlayerModel.cpp')
+  
+  PlayerService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Player\PlayerController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Player/PlayerService.cpp')
+  
+  PlayerView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\Player\PlayerView.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/Player/PlayerView.cpp')
+  
+  Compiling...
+  CreditsScreenUIController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/Credits/CreditsScreenUIController.h': No such file or directory
+  GameplayUIController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\GameplayUI\GameplayUIController.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/GameplayUI/GameplayUIController.h': No such file or directory
+  InstructionsScreenUIController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/Instructions/InstructionsScreenUIController.h': No such file or directory
+  MainMenuUIController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/MainMenu/MainMenuUIController.h': No such file or directory
+  AnimatedImageView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\AnimatedImageView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/AnimatedImageView.h': No such file or directory
+  ButtonView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\ButtonView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/ButtonView.h': No such file or directory
+  ImageView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\ImageView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/ImageView.h': No such file or directory
+  RectangleShapeView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\RectangleShapeView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/RectangleShapeView.h': No such file or directory
+  TextView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\TextView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/TextView.h': No such file or directory
+  UIView.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\UIElement\UIView.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/UIElement/UIView.h': No such file or directory
+  UIService.cpp
+C:\New folder\SME-Assignment\Space-Invaders\header\UI\MainMenu\MainMenuUIController.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'source/UI/UIService.cpp')
+  
+  SplashScreenUIController.cpp
+C:\New folder\SME-Assignment\Space-Invaders\source\UI\SplashScreen\SplashScreenUIController.cpp(1,10): error C1083: Cannot open include file: '../../header/UI/SplashScreen/SplashScreenUIController.h': No such file or directory
